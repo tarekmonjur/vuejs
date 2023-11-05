@@ -1,0 +1,15 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`deep merge > snapshorts merge with overlap 1`] = `
+{
+  "accounts": {
+    "github": "tarekmonjur",
+    "twitter": "tarek",
+  },
+  "language": [
+    "js",
+    "vue",
+  ],
+  "name": "tarek",
+}
+`;
